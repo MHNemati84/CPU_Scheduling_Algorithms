@@ -7,6 +7,8 @@ a tuple `(avg_rt,avg_wt,avg_tat)` indicating the performance of the scheduler fo
 
 To see the output associated with each testcase in the `main.py`, Simply run `python3 main.py` or `python main.py` on the console.
 
+**Note: The outputs produced for the 8 testcases have all been manually tested**
+
 **Example.**
 ```In:
 # TestCase 2
